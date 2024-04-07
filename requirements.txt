@@ -1,0 +1,5 @@
+pip install pytorch_msssim
+pip install tensorboardX
+pip install einops
+pip install thop
+pip install timm
